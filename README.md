@@ -1,6 +1,6 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Arseniy</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%BBE1FA&lines=Intern+JavaScript+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3CAE8D5&lines=Intern+JavaScript+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **JavaScript**
 
